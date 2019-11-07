@@ -1,1 +1,1 @@
-product = first_number * second_number
+first_number = 3
